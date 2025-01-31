@@ -283,7 +283,7 @@ export const projects = [
     description:
       "This is book store web app , where i can make like registration with admin and user, admin can access every thing like when user is online and offline, also managed their books if book is out of stock admin will give a popup msg to this stock has been completly out-of-stock. user can buy and see their books.",
     image:
-      "https://private-user-images.githubusercontent.com/93002735/323463334-0ba0110c-2456-43dc-ae18-0a4d7d360722.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgyNjA0MTYsIm5iZiI6MTczODI2MDExNiwicGF0aCI6Ii85MzAwMjczNS8zMjM0NjMzMzQtMGJhMDExMGMtMjQ1Ni00M2RjLWFlMTgtMGE0ZDdkMzYwNzIyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTMwVDE4MDE1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU1Nzc2NmU2Yzc2MmY2MzE5ZjE3MjUxYjJmMDI3MWJiN2Y0NzE5ZGUxN2QzMDIzYjhiZTY5MDMxNzJlNTY0NzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7Zrhm-ezZm1N9lihkHE-j4pGCP_1_tj0W_OgRIWYHm4",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemRkPQgQxeoVXiiAZQsfU-b9XbgDiftMchL1qtC4TDXdhxyvEmeQquedwXR38A6ZjHSBShWcdBvzV8H9IIYp7Dbc-NGFkXquP_jMPRgQtco0z4yIhse2HXnqbGfqYvfSzrwBgTyk9_fl6ddiY5eNhMvjA63pLQTTw2iK0zxu1deWf4aiOLhY-sF4j8CI/s16000/p3.png",
     tags: ["ReactJs", "Bootstrap", "NodeJs", "ExpressJs", "MongoDB", "React-Router-Dom"],
     category: "web app",
     github: "https://github.com/arjunroy7979/BookStore",
@@ -296,7 +296,7 @@ export const projects = [
     description:
       "This is the News app basically searching with state , country and city it provide the data based on searching alogrithm what-ever you searched. This is based on real time based news-api. ",
     image:
-      "https://private-user-images.githubusercontent.com/93002735/323840020-51d0205c-c5fe-4fee-8636-2bb05cf8c3be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgyNjA1MDAsIm5iZiI6MTczODI2MDIwMCwicGF0aCI6Ii85MzAwMjczNS8zMjM4NDAwMjAtNTFkMDIwNWMtYzVmZS00ZmVlLTg2MzYtMmJiMDVjZjhjM2JlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTMwVDE4MDMyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmZDc5ODQ2NWUxNzc0ODgxMTU3MzBkNTU0MjkxZjdjMDcxNjlkYmYxOWZmZDNlYWNhOTk0MjBlMGU0YzQyYjkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.d24GPKiSwwiHaIsH2JLzA6KiL6mwS6CvTAH2dv3EuC0",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Jh2U5T1cakPo2d7sQUf4Ho6ALm9GSQnSr7uAoL64H5TSTb8aknAx-PJ2uxM7UH_g68HVpvHytzj99Pe8KDx1KP9uY4IZ20QhfU0AtdPLl9zhl0qcCwerUpRQrI1KMQ0LLiwSBxvDWwtIFTv5wGS7NlekS5uGuvvHXg9XnMwe-NyhNYd5YOZNSoexTYA/s16000/p2.png",
     tags: ["ReactJs", "News-api"],
     category: "web app",
     github: "https://github.com/arjunroy7979/news-app",
