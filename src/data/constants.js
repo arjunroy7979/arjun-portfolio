@@ -283,7 +283,7 @@ export const projects = [
     description:
       "This is book store web app , where i can make like registration with admin and user, admin can access every thing like when user is online and offline, also managed their books if book is out of stock admin will give a popup msg to this stock has been completly out-of-stock. user can buy and see their books.",
     image:
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgemRkPQgQxeoVXiiAZQsfU-b9XbgDiftMchL1qtC4TDXdhxyvEmeQquedwXR38A6ZjHSBShWcdBvzV8H9IIYp7Dbc-NGFkXquP_jMPRgQtco0z4yIhse2HXnqbGfqYvfSzrwBgTyk9_fl6ddiY5eNhMvjA63pLQTTw2iK0zxu1deWf4aiOLhY-sF4j8CI/s16000/p3.png",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_YhmkIAjxqxz2dZkYASxcofW79nRFiwG58-iKb2rPJdRnUappxxZFReR_lZGbpR9RgidR5e2lJR3GJdNk4AaeMzj3tdstjNaY6bKZyizK796k6WvpTm1Q5llI-Clrgs0UbFfSvPT3oxbop0XBJupzxi9fi4jbM5qlScJ-aBqsA2O0CY2ZM3KqpfVwK4g/s16000/p3.jpeg",
     tags: ["ReactJs", "Bootstrap", "NodeJs", "ExpressJs", "MongoDB", "React-Router-Dom"],
     category: "web app",
     github: "https://github.com/arjunroy7979/BookStore",
@@ -296,7 +296,7 @@ export const projects = [
     description:
       "This is the News app basically searching with state , country and city it provide the data based on searching alogrithm what-ever you searched. This is based on real time based news-api. ",
     image:
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Jh2U5T1cakPo2d7sQUf4Ho6ALm9GSQnSr7uAoL64H5TSTb8aknAx-PJ2uxM7UH_g68HVpvHytzj99Pe8KDx1KP9uY4IZ20QhfU0AtdPLl9zhl0qcCwerUpRQrI1KMQ0LLiwSBxvDWwtIFTv5wGS7NlekS5uGuvvHXg9XnMwe-NyhNYd5YOZNSoexTYA/s16000/p2.png",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUjhyNLgpD74886aCWJMCEwLylrOiFSxkcdjaWEoJjPEDcIHSCmT7vM6-7Vvlp-M21c3GyoQGf0LcqV_QcbWPHNEzZmAdcChUUgk1BCuxyiwaAia_mLn_S_qvKAuuOsX7ymOcWYNyCTbKgZ-M0S-ruaHy9bAVDEa89iELh5WjUTDI0HggCo9Y7pJOoClM/s16000/p2.jpeg",
     tags: ["ReactJs", "News-api"],
     category: "web app",
     github: "https://github.com/arjunroy7979/news-app",
